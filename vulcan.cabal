@@ -20,8 +20,6 @@ library
     , Spock-core == 0.12.*
     , text == 1.2.*
     , transformers == 0.5.*
-    -- FUCK HASKELL PROGRAMMERS ARE SHIT, LEARN HOW TO COMPUTER FOR FUCKS SAKE
-    , Cabal == 1.24.*
 
   ghc-options:
     -Wall
